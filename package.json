@@ -1,6 +1,6 @@
 {
   "name": "docx-list-style",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Lists the styles in a Word (.docx) file.",
   "main": "index.js",
   "keywords": [
