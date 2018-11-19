@@ -49,5 +49,15 @@ listDocxStyles
   .catch(console.error);
 ```
 
+## Command-line
+```sh
+npx docx-list-style <... path to Word file ...>
+# outputs:
+# Heading1
+# Heading2
+# Heading3
+# ...
+```
+
 ## API
 TODO
